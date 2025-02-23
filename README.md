@@ -84,3 +84,5 @@
 
  We secured 3rd place with 957, 10th got 945, ..., 2nd got 958, 1st got 964. A very close battle! Congratulations to the winners and participants for getting this far!
  Again, don't forget to credit us if you're using any of this information, thank you very much!
+
+ Link to the competition: https://ct-competition-2023.dltcapital.ie/
