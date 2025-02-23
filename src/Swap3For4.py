@@ -1,3 +1,11 @@
+"""
+Copyright (c) 2025, jcb960.
+All rights reserved.
+
+This source code is licensed under the Apache License, Version 2.0 license found in the
+LICENSE file in the root directory of this source tree. 
+"""
+
 soln = eval(open("solutions957.txt", "r").read())
 Two = eval(open("JCB2000906.txt", "r").read())
 Three = eval(open("JCB2000907.txt", "r").read())

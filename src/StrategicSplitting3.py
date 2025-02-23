@@ -1,3 +1,11 @@
+"""
+Copyright (c) 2025, [Patrick (my teamate)].
+All rights reserved.
+
+This source code is licensed under the Apache License, Version 2.0 license found in the
+LICENSE file in the root directory of this source tree. 
+"""
+
 import ast
 
 case = ast.literal_eval(open("o3.txt", "r").read())
